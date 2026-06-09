@@ -1,22 +1,41 @@
-<div align="center">
+<table>
+<tr>
+<td>
 
-# Rayane Aitbraham
+### 👨‍💻 About
 
-### Building AI Products
+AI & Data Student
 
-[Projects] • [LinkedIn] • [Email]
+</td>
 
-</div>
+<td>
 
----
+### 🚀 Looking For
 
-## Featured Work
+Apprenticeship
 
-| Project | Description |
-|----------|------------|
-| 🤖 AI Connect 4 | Minimax Engine |
-| 📊 Data Analyzer | Pandas & Analytics |
-| 🧬 Genetic Algorithm | Optimization |
-| 🗄️ SQL Platform | Database Design |
+</td>
+</tr>
 
----
+<tr>
+<td>
+
+### 📊 Data
+
+Power BI
+Pandas
+SQL
+
+</td>
+
+<td>
+
+### 🤖 AI
+
+ML
+NLP
+LLMs
+
+</td>
+</tr>
+</table>
