@@ -1,10 +1,22 @@
-┌─────────────────────────────┐
-│      RAYANE AITBRAHAM       │
-├─────────────────────────────┤
-│ Role      Data & AI Student │
-│ School    EFREI Paris       │
-│ Focus     Machine Learning  │
-│ Location  France            │
-│ Status    Looking for       │
-│           Apprenticeship    │
-└─────────────────────────────┘
+<div align="center">
+
+# Rayane Aitbraham
+
+### Building AI Products
+
+[Projects] • [LinkedIn] • [Email]
+
+</div>
+
+---
+
+## Featured Work
+
+| Project | Description |
+|----------|------------|
+| 🤖 AI Connect 4 | Minimax Engine |
+| 📊 Data Analyzer | Pandas & Analytics |
+| 🧬 Genetic Algorithm | Optimization |
+| 🗄️ SQL Platform | Database Design |
+
+---
