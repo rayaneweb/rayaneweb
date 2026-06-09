@@ -1,26 +1,25 @@
-<table>
-<tr>
-<td width="60%">
+# ~/rayane
 
-# Rayane Aitbraham
+$ whoami
 
-### Data & AI Engineer in the making
+Rayane Aitbraham
 
-🎓 EFREI Paris
+$ occupation
 
-🚀 Looking for a 24 month apprenticeship
+Data & AI Engineering Student
 
-📍 France
+$ looking_for
 
-</td>
+24 months apprenticeship
 
-<td width="40%">
+$ interests
 
-```python
-skills = [
-    "AI",
-    "ML",
-    "Data",
-    "Python",
-    "SQL"
-]
+AI
+Machine Learning
+Data Science
+FinTech
+Blockchain
+
+$ status
+
+Building cool stuff...
