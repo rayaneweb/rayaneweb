@@ -1,41 +1,26 @@
 <table>
 <tr>
-<td>
+<td width="60%">
 
-### 👨‍💻 About
+# Rayane Aitbraham
 
-AI & Data Student
+### Data & AI Engineer in the making
 
-</td>
+🎓 EFREI Paris
 
-<td>
+🚀 Looking for a 24 months apprenticeship
 
-### 🚀 Looking For
-
-Apprenticeship
-
-</td>
-</tr>
-
-<tr>
-<td>
-
-### 📊 Data
-
-Power BI
-Pandas
-SQL
+📍 Paris
 
 </td>
 
-<td>
+<td width="40%">
 
-### 🤖 AI
-
-ML
-NLP
-LLMs
-
-</td>
-</tr>
-</table>
+```python
+skills = [
+    "AI",
+    "ML",
+    "Data",
+    "Python",
+    "SQL"
+]
