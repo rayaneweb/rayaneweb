@@ -1,25 +1,10 @@
-# ~/rayane
-
-$ whoami
-
-Rayane Aitbraham
-
-$ occupation
-
-Data & AI Engineering Student
-
-$ looking_for
-
-24 months apprenticeship
-
-$ interests
-
-AI
-Machine Learning
-Data Science
-FinTech
-Blockchain
-
-$ status
-
-Building cool stuff...
+┌─────────────────────────────┐
+│      RAYANE AITBRAHAM       │
+├─────────────────────────────┤
+│ Role      Data & AI Student │
+│ School    EFREI Paris       │
+│ Focus     Machine Learning  │
+│ Location  France            │
+│ Status    Looking for       │
+│           Apprenticeship    │
+└─────────────────────────────┘
