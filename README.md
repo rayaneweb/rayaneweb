@@ -8,8 +8,6 @@
 
 🎓 EFREI Paris
 
-🚀 Looking for a 24 months apprenticeship
-
 📍 Paris
 
 </td>
